@@ -1,6 +1,6 @@
 function checkAnswers(){
     entredAnswer = document.querySelector('[name="clave1"]').value
-    rightAnswer = "MR. AHMED IS THE BEST!!!" 
+    rightAnswer = "MR. AHMED IS THE BEST !!!" 
     rightAnswer2 ="SARAH IS THE BEST"
 
     if (entredAnswer.length === 0 || rightAnswer.length === 0) {
